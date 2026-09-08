@@ -1,0 +1,1 @@
+"""Candidate Boolean program data will be added in Sprint 1."""
