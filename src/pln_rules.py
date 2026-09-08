@@ -1,0 +1,1 @@
+"""Pure PLN rule functions will be added in Sprint 5."""
